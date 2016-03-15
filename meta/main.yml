@@ -5,7 +5,8 @@ galaxy_info:
   min_ansible_version: 1.4
   platforms:
     - name: Ubuntu
-  categories:
-    - monitoring
+  galaxy_tags:
+    - system
+    - security
 dependencies: []
-version: 1.0.0
+
